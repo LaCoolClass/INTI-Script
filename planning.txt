@@ -1,2 +1,8 @@
-planning de travail
+planning de travail (Léon Guichard)
 
+lundi = Cobol
+mardi = java
+mercredi = Hibernate
+jeudi = SQL 
+vendredi = XML
+samedi & dimance = PLS
