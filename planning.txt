@@ -4,5 +4,5 @@ Lundi = SQL
 Mardi = Python
 Mercredi = Hadoop
 Jeudi = NoSQL
-Vendredi = repos Tao HS
+Vendredi = repos Tao HS + Efferalgan 1000
 Samedi & Dimanche = PLS
