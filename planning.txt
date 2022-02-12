@@ -1,8 +1,8 @@
 planning de travail
 
-Lundi = SQL
-Mardi = Python
-Mercredi = Hadoop
-Jeudi = NoSQL
-Vendredi = repos Tao HS
-Samedi & Dimanche = PLS
+Lundi = SQL nn
+Mardi = Python nn
+Mercredi = Hadoop nn
+Jeudi = NoSQL nn
+Vendredi = repos Tao HS nn
+Samedi & Dimanche = PLS nn
