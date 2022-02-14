@@ -1,0 +1,3 @@
+# INTI-Script
+
+bonjour et bienvenue...
