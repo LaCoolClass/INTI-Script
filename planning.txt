@@ -1,9 +1,9 @@
 planning de travail (Léon Guichard)
 
 
-lundi = Cobol
-mardi = java
-mercredi = Hibernate
-jeudi = SQL 
-vendredi = XML
-samedi & dimance = PLS
+Lundi = SQL
+Mardi = Python
+Mercredi = Spark
+Jeudi = NoSQL
+Vendredi = repos Tao HS
+Samedi & Dimanche = PLS
