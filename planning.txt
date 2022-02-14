@@ -1,4 +1,5 @@
-planning de travail
+planning de travail (Léon Guichard)
+
 
 Lundi = SQL
 Mardi = Python
